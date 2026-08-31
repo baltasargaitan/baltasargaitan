@@ -1,6 +1,6 @@
 <div align="center">
 
-# Baltasar Gaitán
+# Baltasar Gaitan Acevedo
 
 ### Software Engineer
 
