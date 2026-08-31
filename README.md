@@ -6,13 +6,19 @@
 
 **Backend Systems · Data · Integrations**
 
-Building reliable software, data workflows and system integrations with a strong focus on maintainability, performance and real-world functionality.
+Building reliable software, data-intensive applications and system integrations with a focus on **architecture, performance and production-ready engineering**.
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-bgacevedo-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bgacevedo/)
-[![GitHub](https://img.shields.io/badge/GitHub-baltasargaitan-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/baltasargaitan)
-[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:baltasargaitan12@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-GitHub-18181B?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/baltasargaitan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-18181B?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bgacevedo/)
+[![Email](https://img.shields.io/badge/Email-Contact-18181B?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:baltasargaitan12@gmail.com)
+
+<br>
+
+`Python` · `Django` · `C#/.NET` · `JavaScript` · `SQL Server` · `REST APIs`
+
+📍 Córdoba, Argentina · Open to remote & international opportunities
 
 </div>
 
@@ -20,13 +26,57 @@ Building reliable software, data workflows and system integrations with a strong
 
 ## About
 
-I'm a Software Developer and Information Systems Engineering student based in Córdoba, Argentina.
+I'm a **Software Developer and Information Systems Engineering student** focused on backend systems, data workflows and external integrations.
 
-I work across **backend development, data-intensive systems and external integrations**, taking technical problems from investigation and debugging through implementation, validation and production support.
+I work on software that has to operate beyond the development environment: APIs, SQL Server processes, stored procedures, scheduled workflows, third-party integrations, debugging, application logs and production support.
 
-My current engineering experience includes REST APIs, web services, SQL Server data workflows, stored procedures, scheduled processes, retry mechanisms, application logging and production troubleshooting.
+I enjoy engineering problems where **software architecture, data, performance and reliability intersect**.
 
-I particularly enjoy working on problems where **software architecture, data and reliability intersect**.
+---
+
+# Featured Project
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+## PROGISS
+
+### Data-Rich Management & Analytics Platform
+
+**Python · Django · JavaScript · pandas · NumPy · scikit-learn · SciPy · Plotly · Matplotlib · SQLite**
+
+PROGISS is a full-stack web application designed for health mutuals and insurance environments, combining **operational management, data processing, analytics, statistics and interactive visualization** in one platform.
+
+### Engineering Scope
+
+| Area                        | Implementation                       |
+| --------------------------- | ------------------------------------ |
+| **Backend**                 | Python · Django                      |
+| **Frontend**                | JavaScript · HTML · CSS              |
+| **Data Processing**         | pandas · NumPy                       |
+| **Analytics**               | Statistical processing and reporting |
+| **Predictive Capabilities** | scikit-learn · SciPy                 |
+| **Visualization**           | Plotly · Matplotlib                  |
+| **Persistence**             | SQLite                               |
+
+### What this project demonstrates
+
+* Full-stack application development
+* Data-intensive backend workflows
+* Analytical and statistical processing
+* Integration between backend and browser-based interfaces
+* Interactive reporting and visualizations
+* Applied Python beyond traditional CRUD development
+* Product-oriented development around real operational requirements
+
+<br>
+
+### [Explore PROGISS →](https://github.com/baltasargaitan/ProGISS)
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -34,11 +84,14 @@ I particularly enjoy working on problems where **software architecture, data and
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### [Sistema Sismógrafos](https://github.com/baltasargaitan/SistemaSismografos)
+### Sistema Sismógrafos
 
-Full-stack system for seismic inspection management built around layered architecture and domain-oriented design.
+**Enterprise-style system architecture**
+
+A full-stack seismic inspection management system focused on structured domain logic and maintainable application architecture.
 
 **Engineering highlights**
 
@@ -46,10 +99,13 @@ Full-stack system for seismic inspection management built around layered archite
 * Entity Framework Core
 * SQL Server
 * React + Vite
+* REST / JSON
 * Clean Architecture
-* Repository / Unit of Work
+* Repository pattern
+* Unit of Work
 * Observer design pattern
-* REST / JSON communication
+
+<br>
 
 [Explore repository →](https://github.com/baltasargaitan/SistemaSismografos)
 
@@ -57,9 +113,11 @@ Full-stack system for seismic inspection management built around layered archite
 
 <td width="50%" valign="top">
 
-### [Green Coding Experiment](https://github.com/baltasargaitan/green-code-codecarbon)
+### Green Coding Experiment
 
-Experimental study measuring how algorithmic efficiency affects execution time, energy consumption and CO₂ emissions.
+**Performance × Sustainability**
+
+Experimental engineering study analyzing the impact of algorithmic efficiency on execution time, energy consumption and carbon emissions.
 
 **Measured results**
 
@@ -68,11 +126,16 @@ Experimental study measuring how algorithmic efficiency affects execution time, 
 * **49.5%** less CO₂eq emissions
 * **1.97×** higher throughput
 
-Python · CodeCarbon · Algorithms · Performance Analysis
+<br>
+
+`Python` · `CodeCarbon` · `Algorithms` · `Benchmarking`
+
+<br>
 
 [Explore case study →](https://github.com/baltasargaitan/green-code-codecarbon)
 
 </td>
+
 </tr>
 </table>
 
@@ -81,8 +144,9 @@ Python · CodeCarbon · Algorithms · Performance Analysis
 ## Engineering Stack
 
 <table>
+
 <tr>
-<td><strong>Backend</strong></td>
+<td width="22%"><strong>Backend</strong></td>
 <td>Python · Django · C# · .NET · ASP.NET · Node.js</td>
 </tr>
 
@@ -93,7 +157,7 @@ Python · CodeCarbon · Algorithms · Performance Analysis
 
 <tr>
 <td><strong>Integrations</strong></td>
-<td>REST APIs · Web Services · JSON · External Systems · Messaging</td>
+<td>REST APIs · Web Services · JSON · External System Integration · Messaging</td>
 </tr>
 
 <tr>
@@ -107,61 +171,127 @@ Python · CodeCarbon · Algorithms · Performance Analysis
 </tr>
 
 <tr>
-<td><strong>Engineering</strong></td>
-<td>Git · Debugging · Application Logs · Retry Workflows · Scheduled Jobs · Production Support</td>
+<td><strong>Reliability</strong></td>
+<td>Debugging · Application Logs · Retry Workflows · Scheduled Jobs · Production Support</td>
 </tr>
 
 <tr>
 <td><strong>Platform</strong></td>
-<td>IIS · PowerShell · Windows</td>
+<td>Git · IIS · PowerShell · Windows</td>
+</tr>
+
+</table>
+
+---
+
+## Production Engineering
+
+### Software Developer · Desol
+
+`Mar 2025 — Present`
+
+Working across enterprise software, backend services, databases and external integrations.
+
+My production experience includes:
+
+* Designing and maintaining SQL Server data workflows
+* T-SQL, Stored Procedures and complex relational queries
+* REST APIs, Web Services and JSON integrations
+* Third-party platform and messaging integrations
+* End-to-end debugging across applications and databases
+* Application and integration log analysis
+* Retry mechanisms and recovery workflows
+* Scheduled processes and SQL Server Agent Jobs
+* QA and production validation
+* IIS and PowerShell-based environments
+* SSRS analytics and reporting
+
+---
+
+## How I Approach Engineering
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 01 · Understand
+
+Start from the business requirement, system behavior or production issue.
+
+Identify dependencies, data flows and failure points before modifying the system.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 02 · Engineer
+
+Build solutions with maintainability, observability and operational behavior in mind.
+
+Architecture and reliability matter as much as making the happy path work.
+
+</td>
+
+<td width="33%" valign="top">
+
+### 03 · Validate
+
+Debug, inspect logs, query data and validate expected behavior before considering a change complete.
+
+Production behavior is the final source of truth.
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## Production Experience
+## Current Focus
 
-**Software Developer · Desol**
-*Córdoba, Argentina · 2025 — Present*
+`Backend Architecture` · `Reliable Integrations` · `Data-Intensive Applications`
 
-Working on enterprise software and integration environments involving:
+`API Design` · `Software Performance` · `Testing & CI/CD` · `Engineering Automation`
 
-`Backend Development` · `SQL Server` · `REST APIs` · `Web Services` · `System Integrations` · `Production Support` · `Automation` · `Reporting`
-
----
-
-## Currently Focused On
-
-```text
-Backend architecture
-Reliable integrations
-Data-intensive applications
-API design
-Software performance
-Testing & CI/CD
-Engineering automation
-```
-
-I am currently strengthening my portfolio around production-oriented backend engineering, software reliability and modern development workflows.
+I'm currently strengthening my engineering portfolio around **production-oriented backend development, software reliability, automated testing and modern delivery workflows**.
 
 ---
 
 ## Education
 
-**Information Systems Engineering**
-Universidad Tecnológica Nacional — Facultad Regional Córdoba
+### Information Systems Engineering
 
-**Advanced Full Stack Developer**
-ITBA — School of Innovation
+**Universidad Tecnológica Nacional — Facultad Regional Córdoba**
+
+2023 — Present
+
+<br>
+
+### Advanced Full Stack Developer
+
+**ITBA — School of Innovation**
+
+2024
+
+Full-stack web development · JavaScript · Node.js · Django · REST APIs · Databases
 
 ---
 
+## Let's Connect
+
+I'm interested in software engineering opportunities involving **backend systems, Python, .NET, data, APIs and integrations**.
+
 <div align="center">
 
-### Build software that is understandable, reliable and useful.
+<br>
 
-Córdoba, Argentina · Open to remote and international opportunities
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-bgacevedo-18181B?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/bgacevedo/)
+[![GitHub](https://img.shields.io/badge/GitHub-baltasargaitan-18181B?style=flat-square\&logo=github\&logoColor=white)](https://github.com/baltasargaitan)
+[![Email](https://img.shields.io/badge/Email-baltasargaitan12%40gmail.com-18181B?style=flat-square\&logo=gmail\&logoColor=white)](mailto:baltasargaitan12@gmail.com)
 
-[LinkedIn](https://www.linkedin.com/in/bgacevedo/) · [GitHub](https://github.com/baltasargaitan) · [Email](mailto:baltasargaitan12@gmail.com)
+<br>
+
+**Build software that is understandable, reliable and useful.**
 
 </div>
