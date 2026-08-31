@@ -18,7 +18,7 @@ Building reliable software, data-intensive applications and system integrations 
 
 `Python` · `Django` · `C#/.NET` · `JavaScript` · `SQL Server` · `REST APIs`
 
-📍 Córdoba, Argentina · Open to remote & international opportunities
+Based in: Córdoba, Argentina · Open to remote & international opportunities · EU citizen
 
 </div>
 
