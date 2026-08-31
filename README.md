@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="./assets/profile-herobg.png" alt="Baltasar Gaitán — Software Engineer" width="100%" />
+</p>
 <div align="center">
 
-# Baltasar Gaitan Acevedo
+# Baltasar Gaitán Acevedo
 
 ### Software Engineer
 
