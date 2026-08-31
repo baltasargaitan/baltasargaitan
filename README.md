@@ -3,11 +3,6 @@
 </p>
 <div align="center">
 
-# Baltasar Gaitán Acevedo
-
-### Software Engineer
-
-**Backend Systems · Data · Integrations**
 
 Building reliable software, data-intensive applications and system integrations with a focus on **architecture, performance and production-ready engineering**.
 
