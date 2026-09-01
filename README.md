@@ -105,7 +105,7 @@ A full-stack seismic inspection management system focused on structured domain l
 
 <br>
 
-[Explore repository →](https://github.com/baltasargaitan/SistemaSismografos)
+[Explore repository →](https://github.com/baltasargaitan/sismographs)
 
 </td>
 
