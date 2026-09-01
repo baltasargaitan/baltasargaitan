@@ -85,7 +85,7 @@ PROGISS is a full-stack web application designed for health mutuals and insuranc
 
 <td width="50%" valign="top">
 
-### Sistema Sismógrafos
+### Sistema Sismógrafos: Sismograph
 
 **Enterprise-style system architecture**
 
